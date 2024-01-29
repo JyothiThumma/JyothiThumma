@@ -369,10 +369,7 @@ print(c)
    ],
    "source": [
     "a=\"hello world\"\n",
-    "x=a.islower()\n",
-    "print(x)"
-   ]
-  },
+    "x=a.is
   {
    "cell_type": "code",
    "execution_count": 17,
